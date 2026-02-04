@@ -16,7 +16,7 @@
 Enterprise network with VLAN segmentation, EtherChannel, STP, DHCP,
 ACL-based access control, and router-on-a-stick inter-VLAN routing.
 
-🔗 https://github.com/your-username/bank-network-vlan
+🔗 https://github.com/aayush-doke/bank-network-vlan
 
 ## 📜 Certifications
 - Cisco Networking Academy (Multiple courses)
