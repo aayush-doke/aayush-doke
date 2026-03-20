@@ -1,25 +1,71 @@
-# Hi, I'm Aayush 👋
+# 👋 Hi, I'm Aayush Doke
 
-🎓 3rd Year Computer Engineering student at Atharva College of Engineering  
-🌐 Interested in Networking, Cybersecurity & IT Infrastructure  
+🎓 3rd Year Computer Engineering Student  
+📍 Mumbai, India  
+🌐 Network Engineer | Interested in Networking, Security & Infrastructure  
+
+---
 
 ## 🔧 Skills
-- VLANs, Trunking & Inter-VLAN Routing
-- EtherChannel & Spanning Tree Protocol (STP)
-- DHCP, ACLs & Port Security
+
+**Networking:**
+- VLANs, Inter-VLAN Routing (SVI & Router-on-a-Stick)
+- OSPF (Dynamic Routing)
+- HSRP (First Hop Redundancy Protocol)
+- NAT/PAT (Network Address Translation)
+- ACLs (Traffic Filtering)
+
+**Network Security:**
+- DHCP Snooping
+- Dynamic ARP Inspection
+- Port Security
+
+**Tools & Technologies:**
 - Cisco Packet Tracer
 - Git & GitHub
 - Python (Basics)
 
-## 📂 Projects
+---
+
+## 🚀 Featured Project
+
+### 🌐 Enterprise Network with Dual ISP, OSPF, HSRP & NAT
+
+Designed and implemented a scalable enterprise network with redundancy, dynamic routing, and security.
+
+- Multi-VLAN architecture (Sales, HR, Admin, Servers)
+- OSPF-based dynamic routing across routers and L3 switches
+- HSRP for gateway redundancy and load balancing
+- PAT (NAT Overload) for internet access via dual ISPs
+- DHCP relay with centralized DHCP server
+- ACLs for inter-VLAN traffic control
+- Implemented Layer 2 security: DHCP Snooping, ARP Inspection, Port Security
+- Troubleshot real-world issues like NAT failures, routing loops, and DHCP misconfigurations
+
+🔗 https://github.com/aayush-doke/enterprise-network-project
+
+---
+
+## 📂 Other Project
+
 ### 🔐 Secure Bank Network using VLANs
-Enterprise network with VLAN segmentation, EtherChannel, STP, DHCP,
-ACL-based access control, and router-on-a-stick inter-VLAN routing.
+
+- VLAN segmentation with inter-VLAN routing
+- EtherChannel for link aggregation
+- STP for loop prevention
+- DHCP and ACL-based access control
 
 🔗 https://github.com/aayush-doke/bank-network-vlan
 
+---
+
 ## 📜 Certifications
-- Cisco Networking Academy (Multiple courses)
+
+- Cisco Networking Academy (Multiple Courses)
 - Python – SWAYAM (NPTEL)
 
-📫 Open to Networking / Cybersecurity Internships
+---
+
+## 📫 Open to Opportunities
+
+Actively looking for **Networking / IT Infrastructure / Cybersecurity Internships**
