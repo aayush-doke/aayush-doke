@@ -31,15 +31,13 @@
 
 ### 🌐 Enterprise Network with Dual ISP, OSPF, HSRP & NAT
 
-Designed and implemented a scalable enterprise network with redundancy, dynamic routing, and security.
+Designed and implemented a scalable enterprise network with redundancy and dynamic routing.
 
 - Multi-VLAN architecture (Sales, HR, Admin, Servers)
 - OSPF-based dynamic routing across routers and L3 switches
 - HSRP for gateway redundancy and load balancing
 - PAT (NAT Overload) for internet access via dual ISPs
 - DHCP relay with centralized DHCP server
-- ACLs for inter-VLAN traffic control
-- Implemented Layer 2 security: DHCP Snooping, ARP Inspection, Port Security
 - Troubleshot real-world issues like NAT failures, routing loops, and DHCP misconfigurations
 
 🔗 https://github.com/aayush-doke/enterprise-network-project
