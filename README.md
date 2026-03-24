@@ -66,4 +66,4 @@ Designed and implemented a scalable enterprise network with redundancy and dynam
 
 ## 📫 Open to Opportunities
 
-Actively looking for **Networking / IT Infrastructure / Cybersecurity Internships**
+Actively looking for **Networking / IT Infrastructure Internships**
